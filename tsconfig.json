@@ -16,6 +16,11 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "prime-intl-tel-input": [
+        "dist/prime-intl-tel-input"
+      ]
+    },
     "target": "es2020",
     "module": "es2020",
     "lib": [
